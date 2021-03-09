@@ -2,7 +2,7 @@
 EasyList-compatible filter list for blocking biased media
 
 ## Source
-The source dataset is from [Meg Risdal (Kaggle)](https://kaggle.com/mrisdal/fake-news). All websites in this dataset are filtered by default.
+The source dataset is from [Meg Risdal (Kaggle)](https://kaggle.com/mrisdal/fake-news). All websites in this dataset are filtered by default. No modification to the dataset has been performed (Although feel free to run the notebook yourself).
 
 ## Usage
 1. Follow the instructions for your ad-blocker
